@@ -13,7 +13,6 @@ namespace estudo2
             WhiteWizard jennica = new WhiteWizard("Jennica", 23, "Knight");
             BlackWizard topapa = new BlackWizard("Topapa", 42, "Black Wizard");
             
-
             Console.WriteLine(arus.Attack());
             Console.WriteLine(wedge.Attack(113));
             Console.WriteLine(jennica.Attack(10));
